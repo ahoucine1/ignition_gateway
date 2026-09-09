@@ -1,0 +1,16 @@
+{
+  "hostPattern": "github",
+  "id": 1,
+  "ignitionUser": "ahoucine",
+  "password": {
+    "data": {
+      "ciphertext": "yDLdvzR_LFwG9gZWJZRQILD_d1bMVjXWwNOoYvEYtkj0VqFdgkaIhCgf",
+      "encrypted_key": "tUU6f6CaEBVxerOUP9z7S3jdglQq6yE9bUhf9MMCMFTEy67jtqXDQQ",
+      "iv": "vYSuQHenuMYUDDeU",
+      "protected": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIiwiaWF0IjoxNzg4NzczNTEzLCJ6aXAiOiJERUYifQ",
+      "tag": "HiEIIbKeFmqWYCOvsn1AyA"
+    },
+    "type": "Embedded"
+  },
+  "userName": "ahoucine1"
+}

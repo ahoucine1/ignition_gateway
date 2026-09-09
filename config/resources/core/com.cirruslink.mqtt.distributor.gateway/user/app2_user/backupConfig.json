@@ -1,0 +1,13 @@
+{
+  "ACLs": "R Pharma/site2/#",
+  "password": {
+    "data": {
+      "ciphertext": "sWzPoQNwXaOCVOC2wk8",
+      "encrypted_key": "7mfXI_9LtUd5NSPXes2z2I2n3Tdyd07ivPX_1QJ7rXioC0y8o3LdtA",
+      "iv": "tPfWTKL8fvLt5JAh",
+      "protected": "eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIiwiaWF0IjoxNzgwNjQzMzcyLCJ6aXAiOiJERUYifQ",
+      "tag": "p14WZw9c3gDEf9qBEAbDaA"
+    },
+    "type": "Embedded"
+  }
+}

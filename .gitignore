@@ -1,0 +1,30 @@
+# Ignition data-directory config-as-code — managed by the Git module
+**/db/*
+**/metricsdb/*
+**/autobackup/*
+**/db_backup_sqlite.idb
+**/valueStore.idb
+**/jar-cache/*
+**/request*
+**/response*
+*.tmp
+*.bak
+**/var
+*.log
+**/logs
+**/certificates/*
+**/keystore/
+**/config/local
+**/config/resources/local
+**/.container-init.conf
+**/conversion-report.txt
+**.digest.json
+**/migration-log-*.md
+**/.resources/
+**/.alarms_*
+
+# Per-project resources are versioned separately by this module's per-project repos
+projects/
+
+# Module-internal state at the data-dir root (not config), never versioned
+.git-module-legacy-migrated

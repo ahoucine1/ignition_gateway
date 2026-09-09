@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Akta1",
+    "typeId": "AKTA_MachineModel",
+    "parameters": {
+      "area": {
+        "dataType": "String",
+        "value": "Area 1"
+      },
+      "site": {
+        "dataType": "String",
+        "value": "Site 1"
+      },
+      "line": {
+        "dataType": "String",
+        "value": "Line 4"
+      },
+      "machine": {
+        "dataType": "String",
+        "value": "Machine"
+      },
+      "source": {
+        "dataType": "String",
+        "value": "[MQTT Engine]Edge Nodes/group2/node2/device1/_akta_machine1_"
+      }
+    },
+    "tagType": "UdtInstance"
+  }
+]

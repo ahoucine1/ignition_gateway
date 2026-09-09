@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Axi_test",
+    "typeId": "[UNS]_types_/AXI_MachineModel",
+    "parameters": {
+      "source": {
+        "dataType": "String",
+        "value": "[MQTT Engine]Edge Nodes/group3/node3/device3/L03/AXI"
+      }
+    },
+    "tagType": "UdtInstance"
+  }
+]

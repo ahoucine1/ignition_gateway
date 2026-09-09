@@ -1,0 +1,18 @@
+{
+  "scope": "A",
+  "description": "",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "config.json",
+    "backupConfig.json"
+  ],
+  "attributes": {
+    "lastModification": {
+      "actor": "ahoucine",
+      "timestamp": "2026-06-04T13:20:26Z"
+    },
+    "lastModificationSignature": "845eb63aaf418c6e291214c8c46fa76938b1e444cdd0af94b16a2dbb31f4a10b"
+  }
+}
